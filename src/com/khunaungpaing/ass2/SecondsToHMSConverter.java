@@ -1,5 +1,4 @@
 package com.khunaungpaing.ass2;
-package com.khunaungpaing.ass2;
 
 public class SecondsToHMSConverter {
 
